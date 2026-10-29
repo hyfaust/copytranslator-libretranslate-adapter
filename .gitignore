@@ -1,0 +1,6 @@
+*.bat
+*.ps1
+*.log
+.venv
+__pycache__
+*.exe
